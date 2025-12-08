@@ -1,0 +1,62 @@
+# Copyright © Leaf developer 2023-2025
+import json
+import datetime  
+from nonebot import on_command   # type: ignore
+from nonebot.adapters.onebot.v11 import Message, MessageSegment   # type: ignore
+from nonebot.plugin import PluginMetadata  # type: ignore
+from .config import Config
+from nonebot.params import CommandArg  # type: ignore
+from nonebot.rule import to_me  # type: ignore
+
+# __plugin_meta__ = PluginMetadata(
+#     name="nonebot_plugin_jinshan_railway",
+#     description="",
+#     usage="",
+#     config=Config,
+# )
+
+# config = get_plugin_config(Config)
+
+information_helper = on_command("help" , aliases={"帮助"} , priority=6 , block=True)
+train_number_info = on_command("车次" , aliases={"cc"} , priority=6 , block=True)
+
+# 载入金山铁路车站数据、列车数据json文件
+with open('nonebot_plugin_jinshan_railway/data/train_data.json', "r" ,encoding="utf-8") as file_train_data:
+    parsed_train_data = json.load(file_train_data)
+
+with open('nonebot_plugin_jinshan_railway/data/station_data.json', "r" ,encoding="utf-8") as file_station_data:
+    parsed_station_data = json.load(file_station_data)
+
+
+
+
+@train_number_info.handle() # 查询车次信息
+async def handle_function(args:  Message = CommandArg()):
+    if train_number_input := args.extract_plain_text():
+        res_train_number = parsed_train_data.get('routes', {}).get('trains', [])
+        for train in res_train_number:
+            if train.get('train_number') == train_number_input.upper():
+                train_type = train.get('type')
+                stops = train.get('stops', [])
+                stops_result = ""
+                if stops:
+                    num = 1
+                    for i, stop in enumerate(stops , start=1):
+                        station = stop.get('station')
+                        arrival = stop.get('arrival')
+                        departure = stop.get('departure')
+                        stops_result += str(station) + "：" + str(arrival) + "到，" + str(departure) + "开" + " \n"
+                break
+        
+        train_number_info_result = Message([
+            "🚝" , train_number_input , "次列车：\n",
+            "类型：" , train_type , "\n \n",
+            stops_result,"\n \n",
+            "数据更新时间：",parsed_station_data['schedule_effective_date']
+        ]) # type:ignore
+        
+        await train_number_info.finish(train_number_info_result)
+    else:
+        await train_number_info.finish("未查询到该车次，请确认您输入的车次号为金山铁路列车！")
+
+                         
