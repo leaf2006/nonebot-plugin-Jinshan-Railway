@@ -1,2239 +1,470 @@
 {
-  "schedule_effective_date": "2025-10-11",
-  "stations" : {
-    "上海南": [
-    {
-      "trainNo": "S1001",
-      "direction": "down",
-      "departure": "5:20"
-    },
-    {
-      "trainNo": "S1021",
-      "direction": "down",
-      "departure": "5:50"
-    },
-    {
-      "trainNo": "S1101",
-      "direction": "down",
-      "departure": "6:18"
-    },
-    {
-      "trainNo": "S1003",
-      "direction": "down",
-      "departure": "6:45"
-    },
-    {
-      "trainNo": "S1005",
-      "direction": "down",
-      "departure": "7:15"
-    },
-    {
-      "trainNo": "S1601",
-      "direction": "down",
-      "departure": "7:55"
-    },
-    {
-      "trainNo": "S1009",
-      "direction": "down",
-      "departure": "8:03"
-    },
-    {
-      "trainNo": "S1209",
-      "direction": "down",
-      "departure": "8:23"
-    },
-    {
-      "trainNo": "S1203",
-      "direction": "down",
-      "departure": "8:50"
-    },
-    {
-      "trainNo": "S1605",
-      "direction": "down",
-      "departure": "9:32"
-    },
-    {
-      "trainNo": "S1607",
-      "direction": "down",
-      "departure": "9:49"
-    },
-    {
-      "trainNo": "S1151",
-      "direction": "down",
-      "departure": "10:21"
-    },
-    {
-      "trainNo": "S1609",
-      "direction": "down",
-      "departure": "10:41"
-    },
-    {
-      "trainNo": "S1611",
-      "direction": "down",
-      "departure": "12:05"
-    },
-    {
-      "trainNo": "S1153",
-      "direction": "down",
-      "departure": "12:25"
-    },
-    {
-      "trainNo": "S1613",
-      "direction": "down",
-      "departure": "12:53"
-    },
-    {
-      "trainNo": "S1643",
-      "direction": "down",
-      "departure": "13:40"
-    },
-    {
-      "trainNo": "S1615",
-      "direction": "down",
-      "departure": "14:05"
-    },
-    {
-      "trainNo": "S1155",
-      "direction": "down",
-      "departure": "14:39"
-    },
-    {
-      "trainNo": "S1617",
-      "direction": "down",
-      "departure": "15:07"
-    },
-    {
-      "trainNo": "S1637",
-      "direction": "down",
-      "departure": "15:35"
-    },
-    {
-      "trainNo": "S1619",
-      "direction": "down",
-      "departure": "15:56"
-    },
-    {
-      "trainNo": "S1621",
-      "direction": "down",
-      "departure": "16:21"
-    },
-    {
-      "trainNo": "S1157",
-      "direction": "down",
-      "departure": "17:04"
-    },
-    {
-      "trainNo": "S1623",
-      "direction": "down",
-      "departure": "17:16"
-    },
-    {
-      "trainNo": "S1141",
-      "direction": "down",
-      "departure": "17:35"
-    },
-    {
-      "trainNo": "S1011",
-      "direction": "down",
-      "departure": "18:10"
-    },
-    {
-      "trainNo": "S1625",
-      "direction": "down",
-      "departure": "18:19"
-    },
-    {
-      "trainNo": "S1143",
-      "direction": "down",
-      "departure": "18:40"
-    },
-    {
-      "trainNo": "S1013",
-      "direction": "down",
-      "departure": "19:06"
-    },
-    {
-      "trainNo": "S1627",
-      "direction": "down",
-      "departure": "19:20"
-    },
-    {
-      "trainNo": "S1205",
-      "direction": "down",
-      "departure": "19:35"
-    },
-    {
-      "trainNo": "S1629",
-      "direction": "down",
-      "departure": "20:10"
-    },
-    {
-      "trainNo": "S1207",
-      "direction": "down",
-      "departure": "21:01"
-    },
-    {
-      "trainNo": "S1633",
-      "direction": "down",
-      "departure": "21:49"
-    },
-    {
-      "trainNo": "S1211",
-      "direction": "down",
-      "departure": "21:57"
-    },
-    {
-      "trainNo": "S1212",
-      "direction": "up",
-      "arrival": "7:02"
-    },
-    {
-      "trainNo": "S1004",
-      "direction": "up",
-      "arrival": "7:26"
-    },
-    {
-      "trainNo": "S1142",
-      "direction": "up",
-      "arrival": "7:40"
-    },
-    {
-      "trainNo": "S1022",
-      "direction": "up",
-      "arrival": "8:57"
-    },
-    {
-      "trainNo": "S1606",
-      "direction": "up",
-      "arrival": "9:03"
-    },
-    {
-      "trainNo": "S1608",
-      "direction": "up",
-      "arrival": "9:30"
-    },
-    {
-      "trainNo": "S1104",
-      "direction": "up",
-      "arrival": "9:47"
-    },
-    {
-      "trainNo": "S1636",
-      "direction": "up",
-      "arrival": "10:25"
-    },
-    {
-      "trainNo": "S1621",
-      "direction": "up",
-      "arrival": "11:32"
-    },
-    {
-      "trainNo": "S1641",
-      "direction": "up",
-      "arrival": "12:02"
-    },
-    {
-      "trainNo": "S1624",
-      "direction": "up",
-      "arrival": "12:25"
-    },
-    {
-      "trainNo": "S1616",
-      "direction": "up",
-      "arrival": "13:38"
-    },
-    {
-      "trainNo": "S1108",
-      "direction": "up",
-      "arrival": "14:09"
-    },
-    {
-      "trainNo": "S1638",
-      "direction": "up",
-      "arrival": "15:17"
-    },
-    {
-      "trainNo": "S1626",
-      "direction": "up",
-      "arrival": "15:29"
-    },
-    {
-      "trainNo": "S1110",
-      "direction": "up",
-      "arrival": "16:25"
-    },
-    {
-      "trainNo": "S1006",
-      "direction": "up",
-      "arrival": "17:14"
-    },
-    {
-      "trainNo": "S1627",
-      "direction": "up",
-      "arrival": "17:56"
-    },
-    {
-      "trainNo": "S1628",
-      "direction": "up",
-      "arrival": "18:26"
-    },
-    {
-      "trainNo": "S1008",
-      "direction": "up",
-      "arrival": "18:47"
-    },
-    {
-      "trainNo": "S1010",
-      "direction": "up",
-      "arrival": "19:13"
-    },
-    {
-      "trainNo": "S1630",
-      "direction": "up",
-      "arrival": "19:39"
-    },
-    {
-      "trainNo": "S1012",
-      "direction": "up",
-      "arrival": "20:02"
-    },
-    {
-      "trainNo": "S1208",
-      "direction": "up",
-      "arrival": "21:14"
-    },
-    {
-      "trainNo": "S1634",
-      "direction": "up",
-      "arrival": "21:27"
-    },
-    {
-      "trainNo": "S1210",
-      "direction": "up",
-      "arrival": "22:25"
-    },
-    {
-      "trainNo": "S1014",
-      "direction": "up",
-      "arrival": "23:01"
-    }
+  "上海南": [
+    { "车次": "S1001", "到达时间": null, "发车时间": "05:20" },
+    { "车次": "S1201", "到达时间": null, "发车时间": "05:50" },
+    { "车次": "S1101", "到达时间": null, "发车时间": "06:18" },
+    { "车次": "S1003", "到达时间": null, "发车时间": "06:45" },
+    { "车次": "S1005", "到达时间": null, "发车时间": "07:15" },
+    { "车次": "S1007", "到达时间": null, "发车时间": "07:40" },
+    { "车次": "S1009", "到达时间": null, "发车时间": "08:03" },
+    { "车次": "S1209", "到达时间": null, "发车时间": "08:23" },
+    { "车次": "S1203", "到达时间": null, "发车时间": "08:50" },
+    { "车次": "S1151", "到达时间": null, "发车时间": "10:21" },
+    { "车次": "S1153", "到达时间": null, "发车时间": "12:25" },
+    { "车次": "S1155", "到达时间": null, "发车时间": "14:39" },
+    { "车次": "S1157", "到达时间": null, "发车时间": "17:04" },
+    { "车次": "S1141", "到达时间": null, "发车时间": "17:35" },
+    { "车次": "S1011", "到达时间": null, "发车时间": "18:10" },
+    { "车次": "S1143", "到达时间": null, "发车时间": "18:40" },
+    { "车次": "S1013", "到达时间": null, "发车时间": "19:06" },
+    { "车次": "S1205", "到达时间": null, "发车时间": "19:35" },
+    { "车次": "S1207", "到达时间": null, "发车时间": "21:00" },
+    { "车次": "S1211", "到达时间": null, "发车时间": "21:57" },
+    { "车次": "S1212", "到达时间": "07:02", "发车时间": null },
+    { "车次": "S1002", "到达时间": "07:26", "发车时间": null },
+    { "车次": "S1004", "到达时间": "07:48", "发车时间": null },
+    { "车次": "S1142", "到达时间": "08:10", "发车时间": null },
+    { "车次": "S1152", "到达时间": "08:30", "发车时间": null },
+    { "车次": "S1202", "到达时间": "08:57", "发车时间": null },
+    { "车次": "S1104", "到达时间": "09:47", "发车时间": null },
+    { "车次": "S1106", "到达时间": "12:02", "发车时间": null },
+    { "车次": "S1614", "到达时间": "12:25", "发车时间": null },
+    { "车次": "S1644", "到达时间": "13:07", "发车时间": null },
+    { "车次": "S1108", "到达时间": "14:09", "发车时间": null },
+    { "车次": "S1618", "到达时间": "14:51", "发车时间": null },
+    { "车次": "S1110", "到达时间": "16:25", "发车时间": null },
+    { "车次": "S1006", "到达时间": "17:14", "发车时间": null },
+    { "车次": "S1204", "到达时间": "18:26", "发车时间": null },
+    { "车次": "S1008", "到达时间": "18:47", "发车时间": null },
+    { "车次": "S1010", "到达时间": "19:13", "发车时间": null },
+    { "车次": "S1012", "到达时间": "20:02", "发车时间": null },
+    { "车次": "S1208", "到达时间": "20:47", "发车时间": null },
+    { "车次": "S1206", "到达时间": "21:14", "发车时间": null },
+    { "车次": "S1160", "到达时间": "21:40", "发车时间": null },
+    { "车次": "S1210", "到达时间": "22:22", "发车时间": null },
+    { "车次": "S1014", "到达时间": "23:01", "发车时间": null }
   ],
   "莘庄": [
-    {
-      "trainNo": "S1001",
-      "direction": "down",
-      "arrival": "5:29",
-      "departure": "5:30"
-    },
-    {
-      "trainNo": "S1021",
-      "direction": "down",
-      "arrival": "5:59",
-      "departure": "6:00"
-    },
-    {
-      "trainNo": "S1101",
-      "direction": "down",
-      "arrival": "6:27",
-      "departure": "6:28"
-    },
-    {
-      "trainNo": "S1003",
-      "direction": "down",
-      "arrival": "6:54",
-      "departure": "6:55"
-    },
-    {
-      "trainNo": "S1005",
-      "direction": "down",
-      "arrival": "7:24",
-      "departure": "7:25"
-    },
-    {
-      "trainNo": "S1601",
-      "direction": "down",
-      "arrival": "8:00",
-      "departure": "8:01"
-    },
-    {
-      "trainNo": "S1009",
-      "direction": "down",
-      "arrival": "8:12",
-      "departure": "8:13"
-    },
-    {
-      "trainNo": "S1209",
-      "direction": "down",
-      "arrival": "8:34",
-      "departure": "8:35"
-    },
-    {
-      "trainNo": "S1203",
-      "direction": "down",
-      "arrival": "8:59",
-      "departure": "9:00"
-    },
-    {
-      "trainNo": "S1605",
-      "direction": "down",
-      "arrival": "9:41",
-      "departure": "9:42"
-    },
-    {
-      "trainNo": "S1607",
-      "direction": "down",
-      "arrival": "9:58",
-      "departure": "9:59"
-    },
-    {
-      "trainNo": "S1151",
-      "direction": "down",
-      "arrival": "10:30",
-      "departure": "10:31"
-    },
-    {
-      "trainNo": "S1609",
-      "direction": "down",
-      "arrival": "10:50",
-      "departure": "10:51"
-    },
-    {
-      "trainNo": "S1611",
-      "direction": "down",
-      "arrival": "12:14",
-      "departure": "12:15"
-    },
-    {
-      "trainNo": "S1153",
-      "direction": "down",
-      "arrival": "12:34",
-      "departure": "12:35"
-    },
-    {
-      "trainNo": "S1613",
-      "direction": "down",
-      "arrival": "13:02",
-      "departure": "13:03"
-    },
-    {
-      "trainNo": "S1643",
-      "direction": "down",
-      "arrival": "13:49",
-      "departure": "13:50"
-    },
-    {
-      "trainNo": "S1615",
-      "direction": "down",
-      "arrival": "14:14",
-      "departure": "14:15"
-    },
-    {
-      "trainNo": "S1155",
-      "direction": "down",
-      "arrival": "14:48",
-      "departure": "14:49"
-    },
-    {
-      "trainNo": "S1617",
-      "direction": "down",
-      "arrival": "15:16",
-      "departure": "15:17"
-    },
-    {
-      "trainNo": "S1637",
-      "direction": "down",
-      "arrival": "15:44",
-      "departure": "15:45"
-    },
-    {
-      "trainNo": "S1619",
-      "direction": "down",
-      "arrival": "16:05",
-      "departure": "16:06"
-    },
-    {
-      "trainNo": "S1621",
-      "direction": "down",
-      "arrival": "16:30",
-      "departure": "16:31"
-    },
-    {
-      "trainNo": "S1157",
-      "direction": "down",
-      "arrival": "17:13",
-      "departure": "17:14"
-    },
-    {
-      "trainNo": "S1623",
-      "direction": "down",
-      "arrival": "17:25",
-      "departure": "17:26"
-    },
-    {
-      "trainNo": "S1141",
-      "direction": "down",
-      "arrival": "17:44",
-      "departure": "17:45"
-    },
-    {
-      "trainNo": "S1011",
-      "direction": "down",
-      "arrival": "18:19",
-      "departure": "18:20"
-    },
-    {
-      "trainNo": "S1625",
-      "direction": "down",
-      "arrival": "18:28",
-      "departure": "18:29"
-    },
-    {
-      "trainNo": "S1143",
-      "direction": "down",
-      "arrival": "18:51",
-      "departure": "18:52"
-    },
-    {
-      "trainNo": "S1013",
-      "direction": "down",
-      "arrival": "19:15",
-      "departure": "19:16"
-    },
-    {
-      "trainNo": "S1627",
-      "direction": "down",
-      "arrival": "19:29",
-      "departure": "19:30"
-    },
-    {
-      "trainNo": "S1205",
-      "direction": "down",
-      "arrival": "19:44",
-      "departure": "19:45"
-    },
-    {
-      "trainNo": "S1629",
-      "direction": "down",
-      "arrival": "20:19",
-      "departure": "20:20"
-    },
-    {
-      "trainNo": "S1207",
-      "direction": "down",
-      "arrival": "21:10",
-      "departure": "21:11"
-    },
-    {
-      "trainNo": "S1633",
-      "direction": "down",
-      "arrival": "21:58",
-      "departure": "21:59"
-    },
-    {
-      "trainNo": "S1211",
-      "direction": "down",
-      "arrival": "22:06",
-      "departure": "22:07"
-    },
-    {
-      "trainNo": "S1212",
-      "direction": "up",
-      "arrival": "6:11",
-      "departure": "6:12"
-    },
-    {
-      "trainNo": "S1004",
-      "direction": "up",
-      "arrival": "6:35",
-      "departure": "6:36"
-    },
-    {
-      "trainNo": "S1142",
-      "direction": "up",
-      "arrival": "6:49",
-      "departure": "6:50"
-    },
-    {
-      "trainNo": "S1022",
-      "direction": "up",
-      "arrival": "8:06",
-      "departure": "8:07"
-    },
-    {
-      "trainNo": "S1606",
-      "direction": "up",
-      "arrival": "8:12",
-      "departure": "8:13"
-    },
-    {
-      "trainNo": "S1608",
-      "direction": "up",
-      "arrival": "8:39",
-      "departure": "8:40"
-    },
-    {
-      "trainNo": "S1104",
-      "direction": "up",
-      "arrival": "8:56",
-      "departure": "8:57"
-    },
-    {
-      "trainNo": "S1636",
-      "direction": "up",
-      "arrival": "9:34",
-      "departure": "9:35"
-    },
-    {
-      "trainNo": "S1621",
-      "direction": "up",
-      "arrival": "10:41",
-      "departure": "10:42"
-    },
-    {
-      "trainNo": "S1641",
-      "direction": "up",
-      "arrival": "11:11",
-      "departure": "11:12"
-    },
-    {
-      "trainNo": "S1624",
-      "direction": "up",
-      "arrival": "11:34",
-      "departure": "11:35"
-    },
-    {
-      "trainNo": "S1616",
-      "direction": "up",
-      "arrival": "12:47",
-      "departure": "12:48"
-    },
-    {
-      "trainNo": "S1108",
-      "direction": "up",
-      "arrival": "13:18",
-      "departure": "13:19"
-    },
-    {
-      "trainNo": "S1638",
-      "direction": "up",
-      "arrival": "14:26",
-      "departure": "14:27"
-    },
-    {
-      "trainNo": "S1626",
-      "direction": "up",
-      "arrival": "14:38",
-      "departure": "14:39"
-    },
-    {
-      "trainNo": "S1110",
-      "direction": "up",
-      "arrival": "15:34",
-      "departure": "15:35"
-    },
-    {
-      "trainNo": "S1006",
-      "direction": "up",
-      "arrival": "16:23",
-      "departure": "16:24"
-    },
-    {
-      "trainNo": "S1627",
-      "direction": "up",
-      "arrival": "17:05",
-      "departure": "17:06"
-    },
-    {
-      "trainNo": "S1628",
-      "direction": "up",
-      "arrival": "17:35",
-      "departure": "17:36"
-    },
-    {
-      "trainNo": "S1008",
-      "direction": "up",
-      "arrival": "18:22",
-      "departure": "18:23"
-    },
-    {
-      "trainNo": "S1010",
-      "direction": "up",
-      "arrival": "18:48",
-      "departure": "18:49"
-    },
-    {
-      "trainNo": "S1630",
-      "direction": "up",
-      "arrival": "19:14",
-      "departure": "19:15"
-    },
-    {
-      "trainNo": "S1012",
-      "direction": "up",
-      "arrival": "19:37",
-      "departure": "19:38"
-    },
-    {
-      "trainNo": "S1208",
-      "direction": "up",
-      "arrival": "20:29",
-      "departure": "20:30"
-    },
-    {
-      "trainNo": "S1634",
-      "direction": "up",
-      "arrival": "20:42",
-      "departure": "20:43"
-    },
-    {
-      "trainNo": "S1210",
-      "direction": "up",
-      "arrival": "21:40",
-      "departure": "21:41"
-    },
-    {
-      "trainNo": "S1014",
-      "direction": "up",
-      "arrival": "22:16",
-      "departure": "22:17"
-    }
+    { "车次": "S1601", "到达时间": null, "发车时间": "07:55" },
+    { "车次": "S1605", "到达时间": null, "发车时间": "09:32" },
+    { "车次": "S1607", "到达时间": null, "发车时间": "09:49" },
+    { "车次": "S1609", "到达时间": null, "发车时间": "10:41" },
+    { "车次": "S1635", "到达时间": null, "发车时间": "11:25" },
+    { "车次": "S1611", "到达时间": null, "发车时间": "12:05" },
+    { "车次": "S1613", "到达时间": null, "发车时间": "12:53" },
+    { "车次": "S1643", "到达时间": null, "发车时间": "13:40" },
+    { "车次": "S1615", "到达时间": null, "发车时间": "14:05" },
+    { "车次": "S1617", "到达时间": null, "发车时间": "15:07" },
+    { "车次": "S1637", "到达时间": null, "发车时间": "15:35" },
+    { "车次": "S1619", "到达时间": null, "发车时间": "15:50" },
+    { "车次": "S1621", "到达时间": null, "发车时间": "16:21" },
+    { "车次": "S1623", "到达时间": null, "发车时间": "17:16" },
+    { "车次": "S1625", "到达时间": null, "发车时间": "18:19" },
+    { "车次": "S1627", "到达时间": null, "发车时间": "19:20" },
+    { "车次": "S1629", "到达时间": null, "发车时间": "20:10" },
+    { "车次": "S1633", "到达时间": null, "发车时间": "21:49" },
+    { "车次": "S1212", "到达时间": "06:54", "发车时间": "06:55" },
+    { "车次": "S1604", "到达时间": "07:16", "发车时间": null },
+    { "车次": "S1202", "到达时间": "08:47", "发车时间": "08:50" },
+    { "车次": "S1606", "到达时间": "09:13", "发车时间": null },
+    { "车次": "S1608", "到达时间": "09:30", "发车时间": null },
+    { "车次": "S1610", "到达时间": "10:21", "发车时间": null },
+    { "车次": "S1636", "到达时间": "11:00", "发车时间": null },
+    { "车次": "S1612", "到达时间": "11:32", "发车时间": null },
+    { "车次": "S1644", "到达时间": "13:07", "发车时间": null },
+    { "车次": "S1616", "到达时间": "13:38", "发车时间": null },
+    { "车次": "S1618", "到达时间": "14:51", "发车时间": null },
+    { "车次": "S1638", "到达时间": "15:17", "发车时间": null },
+    { "车次": "S1620", "到达时间": "15:29", "发车时间": null },
+    { "车次": "S1622", "到达时间": "15:58", "发车时间": null },
+    { "车次": "S1624", "到达时间": "16:46", "发车时间": null },
+    { "车次": "S1626", "到达时间": "17:56", "发车时间": null },
+    { "车次": "S1204", "到达时间": "18:18", "发车时间": "18:19" },
+    { "车次": "S1628", "到达时间": "18:53", "发车时间": null },
+    { "车次": "S1630", "到达时间": "19:39", "发车时间": null },
+    { "车次": "S1208", "到达时间": "20:39", "发车时间": "20:40" },
+    { "车次": "S1206", "到达时间": "21:06", "发车时间": "21:07" },
+    { "车次": "S1634", "到达时间": "21:27", "发车时间": null }
   ],
   "春申": [
-    {
-      "trainNo": "S1001",
-      "direction": "down",
-      "arrival": "5:38",
-      "departure": "5:39"
-    },
-    {
-      "trainNo": "S1021",
-      "direction": "down",
-      "arrival": "6:07",
-      "departure": "6:08"
-    },
-    {
-      "trainNo": "S1101",
-      "direction": "down",
-      "arrival": "6:36",
-      "departure": "6:37"
-    },
-    {
-      "trainNo": "S1003",
-      "direction": "down",
-      "arrival": "7:03",
-      "departure": "7:04"
-    },
-    {
-      "trainNo": "S1005",
-      "direction": "down",
-      "arrival": "7:33",
-      "departure": "7:34"
-    },
-    {
-      "trainNo": "S1601",
-      "direction": "down",
-      "arrival": "8:09",
-      "departure": "8:10"
-    },
-    {
-      "trainNo": "S1009",
-      "direction": "down",
-      "arrival": "8:21",
-      "departure": "8:22"
-    },
-    {
-      "trainNo": "S1209",
-      "direction": "down",
-      "arrival": "8:43",
-      "departure": "8:44"
-    },
-    {
-      "trainNo": "S1203",
-      "direction": "down",
-      "arrival": "9:08",
-      "departure": "9:09"
-    },
-    {
-      "trainNo": "S1605",
-      "direction": "down",
-      "arrival": "9:50",
-      "departure": "9:51"
-    },
-    {
-      "trainNo": "S1607",
-      "direction": "down",
-      "arrival": "10:07",
-      "departure": "10:08"
-    },
-    {
-      "trainNo": "S1151",
-      "direction": "down",
-      "arrival": "10:39",
-      "departure": "10:40"
-    },
-    {
-      "trainNo": "S1609",
-      "direction": "down",
-      "arrival": "11:00",
-      "departure": "11:01"
-    },
-    {
-      "trainNo": "S1611",
-      "direction": "down",
-      "arrival": "12:23",
-      "departure": "12:24"
-    },
-    {
-      "trainNo": "S1153",
-      "direction": "down",
-      "arrival": "12:43",
-      "departure": "12:44"
-    },
-    {
-      "trainNo": "S1613",
-      "direction": "down",
-      "arrival": "13:11",
-      "departure": "13:12"
-    },
-    {
-      "trainNo": "S1643",
-      "direction": "down",
-      "arrival": "13:58",
-      "departure": "13:59"
-    },
-    {
-      "trainNo": "S1615",
-      "direction": "down",
-      "arrival": "14:23",
-      "departure": "14:24"
-    },
-    {
-      "trainNo": "S1155",
-      "direction": "down",
-      "arrival": "14:57",
-      "departure": "14:58"
-    },
-    {
-      "trainNo": "S1617",
-      "direction": "down",
-      "arrival": "15:25",
-      "departure": "15:26"
-    },
-    {
-      "trainNo": "S1637",
-      "direction": "down",
-      "arrival": "15:53",
-      "departure": "15:54"
-    },
-    {
-      "trainNo": "S1619",
-      "direction": "down",
-      "arrival": "16:14",
-      "departure": "16:15"
-    },
-    {
-      "trainNo": "S1621",
-      "direction": "down",
-      "arrival": "16:39",
-      "departure": "16:40"
-    },
-    {
-      "trainNo": "S1157",
-      "direction": "down",
-      "arrival": "17:22",
-      "departure": "17:23"
-    },
-    {
-      "trainNo": "S1623",
-      "direction": "down",
-      "arrival": "17:34",
-      "departure": "17:35"
-    },
-    {
-      "trainNo": "S1141",
-      "direction": "down",
-      "arrival": "17:53",
-      "departure": "17:54"
-    },
-    {
-      "trainNo": "S1011",
-      "direction": "down",
-      "arrival": "18:28",
-      "departure": "18:29"
-    },
-    {
-      "trainNo": "S1625",
-      "direction": "down",
-      "arrival": "18:37",
-      "departure": "18:38"
-    },
-    {
-      "trainNo": "S1143",
-      "direction": "down",
-      "arrival": "19:00",
-      "departure": "19:01"
-    },
-    {
-      "trainNo": "S1013",
-      "direction": "down",
-      "arrival": "19:24",
-      "departure": "19:25"
-    },
-    {
-      "trainNo": "S1627",
-      "direction": "down",
-      "arrival": "19:39",
-      "departure": "19:40"
-    },
-    {
-      "trainNo": "S1205",
-      "direction": "down",
-      "arrival": "19:53",
-      "departure": "19:54"
-    },
-    {
-      "trainNo": "S1629",
-      "direction": "down",
-      "arrival": "20:28",
-      "departure": "20:29"
-    },
-    {
-      "trainNo": "S1207",
-      "direction": "down",
-      "arrival": "21:19",
-      "departure": "21:20"
-    },
-    {
-      "trainNo": "S1633",
-      "direction": "down",
-      "arrival": "22:07",
-      "departure": "22:08"
-    },
-    {
-      "trainNo": "S1211",
-      "direction": "down",
-      "arrival": "22:15",
-      "departure": "22:16"
-    },
-    {
-      "trainNo": "S1212",
-      "direction": "up",
-      "arrival": "6:20",
-      "departure": "6:21"
-    },
-    {
-      "trainNo": "S1004",
-      "direction": "up",
-      "arrival": "6:44",
-      "departure": "6:45"
-    },
-    {
-      "trainNo": "S1142",
-      "direction": "up",
-      "arrival": "6:58",
-      "departure": "6:59"
-    },
-    {
-      "trainNo": "S1022",
-      "direction": "up",
-      "arrival": "8:15",
-      "departure": "8:16"
-    },
-    {
-      "trainNo": "S1606",
-      "direction": "up",
-      "arrival": "8:21",
-      "departure": "8:22"
-    },
-    {
-      "trainNo": "S1608",
-      "direction": "up",
-      "arrival": "8:48",
-      "departure": "8:49"
-    },
-    {
-      "trainNo": "S1104",
-      "direction": "up",
-      "arrival": "9:05",
-      "departure": "9:06"
-    },
-    {
-      "trainNo": "S1636",
-      "direction": "up",
-      "arrival": "9:43",
-      "departure": "9:44"
-    },
-    {
-      "trainNo": "S1621",
-      "direction": "up",
-      "arrival": "10:50",
-      "departure": "10:51"
-    },
-    {
-      "trainNo": "S1641",
-      "direction": "up",
-      "arrival": "11:20",
-      "departure": "11:21"
-    },
-    {
-      "trainNo": "S1624",
-      "direction": "up",
-      "arrival": "11:43",
-      "departure": "11:44"
-    },
-    {
-      "trainNo": "S1616",
-      "direction": "up",
-      "arrival": "12:56",
-      "departure": "12:57"
-    },
-    {
-      "trainNo": "S1108",
-      "direction": "up",
-      "arrival": "13:27",
-      "departure": "13:28"
-    },
-    {
-      "trainNo": "S1638",
-      "direction": "up",
-      "arrival": "14:35",
-      "departure": "14:36"
-    },
-    {
-      "trainNo": "S1626",
-      "direction": "up",
-      "arrival": "14:47",
-      "departure": "14:48"
-    },
-    {
-      "trainNo": "S1110",
-      "direction": "up",
-      "arrival": "15:43",
-      "departure": "15:44"
-    },
-    {
-      "trainNo": "S1006",
-      "direction": "up",
-      "arrival": "16:32",
-      "departure": "16:33"
-    },
-    {
-      "trainNo": "S1627",
-      "direction": "up",
-      "arrival": "17:14",
-      "departure": "17:15"
-    },
-    {
-      "trainNo": "S1628",
-      "direction": "up",
-      "arrival": "17:44",
-      "departure": "17:45"
-    },
-    {
-      "trainNo": "S1008",
-      "direction": "up",
-      "arrival": "18:31",
-      "departure": "18:32"
-    },
-    {
-      "trainNo": "S1010",
-      "direction": "up",
-      "arrival": "18:57",
-      "departure": "18:58"
-    },
-    {
-      "trainNo": "S1630",
-      "direction": "up",
-      "arrival": "19:23",
-      "departure": "19:24"
-    },
-    {
-      "trainNo": "S1012",
-      "direction": "up",
-      "arrival": "19:46",
-      "departure": "19:47"
-    },
-    {
-      "trainNo": "S1208",
-      "direction": "up",
-      "arrival": "20:38",
-      "departure": "20:39"
-    },
-    {
-      "trainNo": "S1634",
-      "direction": "up",
-      "arrival": "20:51",
-      "departure": "20:52"
-    },
-    {
-      "trainNo": "S1210",
-      "direction": "up",
-      "arrival": "21:49",
-      "departure": "21:50"
-    },
-    {
-      "trainNo": "S1014",
-      "direction": "up",
-      "arrival": "22:25",
-      "departure": "22:26"
-    }
+    { "车次": "S1201", "到达时间": "06:00", "发车时间": "06:01" },
+    { "车次": "S1209", "到达时间": "08:35", "发车时间": "08:36" },
+    { "车次": "S1203", "到达时间": "09:00", "发车时间": "09:01" },
+    { "车次": "S1605", "到达时间": "09:38", "发车时间": "09:39" },
+    { "车次": "S1607", "到达时间": "09:56", "发车时间": "09:57" },
+    { "车次": "S1205", "到达时间": "19:45", "发车时间": "19:47" },
+    { "车次": "S1627", "到达时间": "19:26", "发车时间": "19:28" },
+    { "车次": "S1207", "到达时间": "21:10", "发车时间": "21:11" },
+    { "车次": "S1633", "到达时间": "21:55", "发车时间": "21:56" },
+    { "车次": "S1212", "到达时间": "06:48", "发车时间": "06:49" },
+    { "车次": "S1604", "到达时间": "07:10", "发车时间": "07:11" },
+    { "车次": "S1142", "到达时间": "07:57", "发车时间": "07:59" },
+    { "车次": "S1152", "到达时间": "08:15", "发车时间": "08:17" },
+    { "车次": "S1202", "到达时间": "08:38", "发车时间": "08:40" },
+    { "车次": "S1606", "到达时间": "09:03", "发车时间": "09:05" },
+    { "车次": "S1608", "到达时间": "09:21", "发车时间": "09:23" },
+    { "车次": "S1104", "到达时间": "09:30", "发车时间": "09:31" },
+    { "车次": "S1610", "到达时间": "10:13", "发车时间": "10:14" },
+    { "车次": "S1636", "到达时间": "10:53", "发车时间": "10:54" },
+    { "车次": "S1612", "到达时间": "11:23", "发车时间": "11:24" },
+    { "车次": "S1614", "到达时间": "12:17", "发车时间": "12:18" },
+    { "车次": "S1644", "到达时间": "12:52", "发车时间": "12:53" },
+    { "车次": "S1616", "到达时间": "13:30", "发车时间": "13:31" },
+    { "车次": "S1108", "到达时间": "13:52", "发车时间": "13:53" },
+    { "车次": "S1618", "到达时间": "14:43", "发车时间": "14:44" },
+    { "车次": "S1638", "到达时间": "15:10", "发车时间": "15:11" },
+    { "车次": "S1620", "到达时间": "15:21", "发车时间": "15:22" },
+    { "车次": "S1622", "到达时间": "15:50", "发车时间": "15:51" },
+    { "车次": "S1624", "到达时间": "16:38", "发车时间": "16:39" },
+    { "车次": "S1626", "到达时间": "17:48", "发车时间": "17:49" },
+    { "车次": "S1204", "到达时间": "18:10", "发车时间": "18:11" },
+    { "车次": "S1628", "到达时间": "18:45", "发车时间": "18:46" },
+    { "车次": "S1630", "到达时间": "19:31", "发车时间": "19:32" },
+    { "车次": "S1208", "到达时间": "20:33", "发车时间": "20:34" },
+    { "车次": "S1206", "到达时间": "20:58", "发车时间": "20:59" },
+    { "车次": "S1634", "到达时间": "21:19", "发车时间": "21:20" },
+    { "车次": "S1210", "到达时间": "21:59", "发车时间": "22:00" }
+  ],
+  "新桥": [
+    { "车次": "S1201", "到达时间": "06:09", "发车时间": "06:10" },
+    { "车次": "S1101", "到达时间": "06:33", "发车时间": "06:34" },
+    { "车次": "S1601", "到达时间": "08:01", "发车时间": "08:02" },
+    { "车次": "S1209", "到达时间": "08:44", "发车时间": "08:45" },
+    { "车次": "S1203", "到达时间": "09:09", "发车时间": "09:10" },
+    { "车次": "S1605", "到达时间": "09:47", "发车时间": "09:48" },
+    { "车次": "S1607", "到达时间": "10:05", "发车时间": "10:06" },
+    { "车次": "S1609", "到达时间": "10:56", "发车时间": "10:57" },
+    { "车次": "S1635", "到达时间": "11:40", "发车时间": "11:41" },
+    { "车次": "S1611", "到达时间": "12:20", "发车时间": "12:21" },
+    { "车次": "S1613", "到达时间": "13:08", "发车时间": "13:09" },
+    { "车次": "S1643", "到达时间": "13:51", "发车时间": "13:52" },
+    { "车次": "S1615", "到达时间": "14:20", "发车时间": "14:21" },
+    { "车次": "S1617", "到达时间": "15:22", "发车时间": "15:23" },
+    { "车次": "S1637", "到达时间": "15:51", "发车时间": "15:52" },
+    { "车次": "S1619", "到达时间": "16:05", "发车时间": "16:06" },
+    { "车次": "S1621", "到达时间": "16:36", "发车时间": "16:37" },
+    { "车次": "S1623", "到达时间": "17:31", "发车时间": "17:32" },
+    { "车次": "S1625", "到达时间": "18:35", "发车时间": "18:37" },
+    { "车次": "S1627", "到达时间": "19:36", "发车时间": "19:38" },
+    { "车次": "S1205", "到达时间": "19:55", "发车时间": "19:57" },
+    { "车次": "S1629", "到达时间": "20:25", "发车时间": "20:26" },
+    { "车次": "S1207", "到达时间": "21:19", "发车时间": "21:20" },
+    { "车次": "S1633", "到达时间": "22:04", "发车时间": "22:05" },
+    { "车次": "S1211", "到达时间": "22:17", "发车时间": "22:18" },
+    { "车次": "S1212", "到达时间": "06:39", "发车时间": "06:40" },
+    { "车次": "S1604", "到达时间": "07:01", "发车时间": "07:02" },
+    { "车次": "S1142", "到达时间": "07:47", "发车时间": "07:49" },
+    { "车次": "S1152", "到达时间": "08:05", "发车时间": "08:07" },
+    { "车次": "S1202", "到达时间": "08:28", "发车时间": "08:30" },
+    { "车次": "S1606", "到达时间": "08:53", "发车时间": "08:55" },
+    { "车次": "S1608", "到达时间": "09:11", "发车时间": "09:13" },
+    { "车次": "S1610", "到达时间": "10:04", "发车时间": "10:05" },
+    { "车次": "S1636", "到达时间": "10:44", "发车时间": "10:45" },
+    { "车次": "S1612", "到达时间": "11:14", "发车时间": "11:15" },
+    { "车次": "S1614", "到达时间": "12:08", "发车时间": "12:09" },
+    { "车次": "S1644", "到达时间": "12:42", "发车时间": "12:43" },
+    { "车次": "S1616", "到达时间": "13:21", "发车时间": "13:22" },
+    { "车次": "S1108", "到达时间": "13:52", "发车时间": "13:53" },
+    { "车次": "S1618", "到达时间": "14:32", "发车时间": "14:35" },
+    { "车次": "S1638", "到达时间": "15:00", "发车时间": "15:01" },
+    { "车次": "S1620", "到达时间": "15:12", "发车时间": "15:13" },
+    { "车次": "S1622", "到达时间": "15:41", "发车时间": "15:42" },
+    { "车次": "S1624", "到达时间": "16:29", "发车时间": "16:30" },
+    { "车次": "S1626", "到达时间": "17:39", "发车时间": "17:40" },
+    { "车次": "S1204", "到达时间": "18:01", "发车时间": "18:02" },
+    { "车次": "S1628", "到达时间": "18:29", "发车时间": "18:37" },
+    { "车次": "S1630", "到达时间": "19:22", "发车时间": "19:23" },
+    { "车次": "S1208", "到达时间": "20:24", "发车时间": "20:25" },
+    { "车次": "S1206", "到达时间": "20:49", "发车时间": "20:50" },
+    { "车次": "S1634", "到达时间": "21:10", "发车时间": "21:11" },
+    { "车次": "S1210", "到达时间": "21:51", "发车时间": "21:52" }
   ],
   "车墩": [
-    {
-      "trainNo": "S1001",
-      "direction": "down",
-      "arrival": "5:47",
-      "departure": "5:48"
-    },
-    {
-      "trainNo": "S1021",
-      "direction": "down",
-      "arrival": "6:16",
-      "departure": "6:17"
-    },
-    {
-      "trainNo": "S1101",
-      "direction": "down",
-      "arrival": "6:45",
-      "departure": "6:46"
-    },
-    {
-      "trainNo": "S1003",
-      "direction": "down",
-      "arrival": "7:12",
-      "departure": "7:13"
-    },
-    {
-      "trainNo": "S1005",
-      "direction": "down",
-      "arrival": "7:42",
-      "departure": "7:43"
-    },
-    {
-      "trainNo": "S1601",
-      "direction": "down",
-      "arrival": "8:18",
-      "departure": "8:19"
-    },
-    {
-      "trainNo": "S1009",
-      "direction": "down",
-      "arrival": "8:30",
-      "departure": "8:31"
-    },
-    {
-      "trainNo": "S1209",
-      "direction": "down",
-      "arrival": "8:52",
-      "departure": "8:53"
-    },
-    {
-      "trainNo": "S1203",
-      "direction": "down",
-      "arrival": "9:17",
-      "departure": "9:18"
-    },
-    {
-      "trainNo": "S1605",
-      "direction": "down",
-      "arrival": "9:59",
-      "departure": "10:00"
-    },
-    {
-      "trainNo": "S1607",
-      "direction": "down",
-      "arrival": "10:16",
-      "departure": "10:17"
-    },
-    {
-      "trainNo": "S1151",
-      "direction": "down",
-      "arrival": "10:48",
-      "departure": "10:49"
-    },
-    {
-      "trainNo": "S1609",
-      "direction": "down",
-      "arrival": "11:09",
-      "departure": "11:10"
-    },
-    {
-      "trainNo": "S1611",
-      "direction": "down",
-      "arrival": "12:32",
-      "departure": "12:33"
-    },
-    {
-      "trainNo": "S1153",
-      "direction": "down",
-      "arrival": "12:52",
-      "departure": "12:53"
-    },
-    {
-      "trainNo": "S1613",
-      "direction": "down",
-      "arrival": "13:20",
-      "departure": "13:21"
-    },
-    {
-      "trainNo": "S1643",
-      "direction": "down",
-      "arrival": "14:07",
-      "departure": "14:08"
-    },
-    {
-      "trainNo": "S1615",
-      "direction": "down",
-      "arrival": "14:32",
-      "departure": "14:33"
-    },
-    {
-      "trainNo": "S1155",
-      "direction": "down",
-      "arrival": "15:06",
-      "departure": "15:07"
-    },
-    {
-      "trainNo": "S1617",
-      "direction": "down",
-      "arrival": "15:34",
-      "departure": "15:35"
-    },
-    {
-      "trainNo": "S1637",
-      "direction": "down",
-      "arrival": "16:02",
-      "departure": "16:03"
-    },
-    {
-      "trainNo": "S1619",
-      "direction": "down",
-      "arrival": "16:23",
-      "departure": "16:24"
-    },
-    {
-      "trainNo": "S1621",
-      "direction": "down",
-      "arrival": "16:48",
-      "departure": "16:49"
-    },
-    {
-      "trainNo": "S1157",
-      "direction": "down",
-      "arrival": "17:31",
-      "departure": "17:32"
-    },
-    {
-      "trainNo": "S1623",
-      "direction": "down",
-      "arrival": "17:43",
-      "departure": "17:44"
-    },
-    {
-      "trainNo": "S1141",
-      "direction": "down",
-      "arrival": "18:02",
-      "departure": "18:03"
-    },
-    {
-      "trainNo": "S1011",
-      "direction": "down",
-      "arrival": "18:37",
-      "departure": "18:38"
-    },
-    {
-      "trainNo": "S1625",
-      "direction": "down",
-      "arrival": "18:46",
-      "departure": "18:47"
-    },
-    {
-      "trainNo": "S1143",
-      "direction": "down",
-      "arrival": "19:09",
-      "departure": "19:10"
-    },
-    {
-      "trainNo": "S1013",
-      "direction": "down",
-      "arrival": "19:33",
-      "departure": "19:34"
-    },
-    {
-      "trainNo": "S1627",
-      "direction": "down",
-      "arrival": "19:48",
-      "departure": "19:49"
-    },
-    {
-      "trainNo": "S1205",
-      "direction": "down",
-      "arrival": "20:02",
-      "departure": "20:03"
-    },
-    {
-      "trainNo": "S1629",
-      "direction": "down",
-      "arrival": "20:37",
-      "departure": "20:38"
-    },
-    {
-      "trainNo": "S1207",
-      "direction": "down",
-      "arrival": "21:28",
-      "departure": "21:29"
-    },
-    {
-      "trainNo": "S1633",
-      "direction": "down",
-      "arrival": "22:16",
-      "departure": "22:17"
-    },
-    {
-      "trainNo": "S1211",
-      "direction": "down",
-      "arrival": "22:24",
-      "departure": "22:25"
-    },
-    {
-      "trainNo": "S1212",
-      "direction": "up",
-      "arrival": "6:29",
-      "departure": "6:30"
-    },
-    {
-      "trainNo": "S1004",
-      "direction": "up",
-      "arrival": "6:53",
-      "departure": "6:54"
-    },
-    {
-      "trainNo": "S1142",
-      "direction": "up",
-      "arrival": "7:07",
-      "departure": "7:08"
-    },
-    {
-      "trainNo": "S1022",
-      "direction": "up",
-      "arrival": "8:24",
-      "departure": "8:25"
-    },
-    {
-      "trainNo": "S1606",
-      "direction": "up",
-      "arrival": "8:30",
-      "departure": "8:31"
-    },
-    {
-      "trainNo": "S1608",
-      "direction": "up",
-      "arrival": "8:57",
-      "departure": "8:58"
-    },
-    {
-      "trainNo": "S1104",
-      "direction": "up",
-      "arrival": "9:14",
-      "departure": "9:15"
-    },
-    {
-      "trainNo": "S1636",
-      "direction": "up",
-      "arrival": "9:52",
-      "departure": "9:53"
-    },
-    {
-      "trainNo": "S1621",
-      "direction": "up",
-      "arrival": "10:59",
-      "departure": "11:00"
-    },
-    {
-      "trainNo": "S1641",
-      "direction": "up",
-      "arrival": "11:29",
-      "departure": "11:30"
-    },
-    {
-      "trainNo": "S1624",
-      "direction": "up",
-      "arrival": "11:52",
-      "departure": "11:53"
-    },
-    {
-      "trainNo": "S1616",
-      "direction": "up",
-      "arrival": "13:05",
-      "departure": "13:06"
-    },
-    {
-      "trainNo": "S1108",
-      "direction": "up",
-      "arrival": "13:36",
-      "departure": "13:37"
-    },
-    {
-      "trainNo": "S1638",
-      "direction": "up",
-      "arrival": "14:44",
-      "departure": "14:45"
-    },
-    {
-      "trainNo": "S1626",
-      "direction": "up",
-      "arrival": "14:56",
-      "departure": "14:57"
-    },
-    {
-      "trainNo": "S1110",
-      "direction": "up",
-      "arrival": "15:52",
-      "departure": "15:53"
-    },
-    {
-      "trainNo": "S1006",
-      "direction": "up",
-      "arrival": "16:41",
-      "departure": "16:42"
-    },
-    {
-      "trainNo": "S1627",
-      "direction": "up",
-      "arrival": "17:23",
-      "departure": "17:24"
-    },
-    {
-      "trainNo": "S1628",
-      "direction": "up",
-      "arrival": "17:53",
-      "departure": "17:54"
-    },
-    {
-      "trainNo": "S1008",
-      "direction": "up",
-      "arrival": "18:40",
-      "departure": "18:41"
-    },
-    {
-      "trainNo": "S1010",
-      "direction": "up",
-      "arrival": "19:06",
-      "departure": "19:07"
-    },
-    {
-      "trainNo": "S1630",
-      "direction": "up",
-      "arrival": "19:32",
-      "departure": "19:33"
-    },
-    {
-      "trainNo": "S1012",
-      "direction": "up",
-      "arrival": "19:55",
-      "departure": "19:56"
-    },
-    {
-      "trainNo": "S1208",
-      "direction": "up",
-      "arrival": "20:47",
-      "departure": "20:48"
-    },
-    {
-      "trainNo": "S1634",
-      "direction": "up",
-      "arrival": "21:00",
-      "departure": "21:01"
-    },
-    {
-      "trainNo": "S1210",
-      "direction": "up",
-      "arrival": "21:58",
-      "departure": "21:59"
-    },
-    {
-      "trainNo": "S1014",
-      "direction": "up",
-      "arrival": "22:34",
-      "departure": "22:35"
-    }
+    { "车次": "S1201", "到达时间": "06:17", "发车时间": "06:18" },
+    { "车次": "S1601", "到达时间": "08:10", "发车时间": "08:11" },
+    { "车次": "S1209", "到达时间": "08:52", "发车时间": "08:53" },
+    { "车次": "S1203", "到达时间": "09:17", "发车时间": "09:18" },
+    { "车次": "S1605", "到达时间": "09:55", "发车时间": "09:56" },
+    { "车次": "S1607", "到达时间": "10:13", "发车时间": "10:14" },
+    { "车次": "S1609", "到达时间": "11:04", "发车时间": "11:05" },
+    { "车次": "S1635", "到达时间": "11:48", "发车时间": "11:49" },
+    { "车次": "S1611", "到达时间": "12:28", "发车时间": "12:29" },
+    { "车次": "S1153", "到达时间": "12:44", "发车时间": "12:45" },
+    { "车次": "S1613", "到达时间": "13:16", "发车时间": "13:17" },
+    { "车次": "S1615", "到达时间": "14:28", "发车时间": "14:29" },
+    { "车次": "S1617", "到达时间": "15:30", "发车时间": "15:31" },
+    { "车次": "S1637", "到达时间": "15:59", "发车时间": "16:00" },
+    { "车次": "S1619", "到达时间": "16:13", "发车时间": "16:14" },
+    { "车次": "S1621", "到达时间": "16:44", "发车时间": "16:45" },
+    { "车次": "S1623", "到达时间": "17:39", "发车时间": "17:40" },
+    { "车次": "S1625", "到达时间": "18:44", "发车时间": "18:46" },
+    { "车次": "S1627", "到达时间": "19:45", "发车时间": "19:47" },
+    { "车次": "S1205", "到达时间": "20:04", "发车时间": "20:06" },
+    { "车次": "S1629", "到达时间": "20:33", "发车时间": "20:34" },
+    { "车次": "S1207", "到达时间": "21:27", "发车时间": "21:28" },
+    { "车次": "S1633", "到达时间": "22:12", "发车时间": "22:13" },
+    { "车次": "S1211", "到达时间": "22:25", "发车时间": "22:26" },
+    { "车次": "S1212", "到达时间": "06:31", "发车时间": "06:32" },
+    { "车次": "S1604", "到达时间": "06:53", "发车时间": "06:54" },
+    { "车次": "S1142", "到达时间": "07:38", "发车时间": "07:40" },
+    { "车次": "S1152", "到达时间": "07:56", "发车时间": "07:58" },
+    { "车次": "S1202", "到达时间": "08:19", "发车时间": "08:21" },
+    { "车次": "S1606", "到达时间": "08:44", "发车时间": "08:46" },
+    { "车次": "S1608", "到达时间": "09:02", "发车时间": "09:04" },
+    { "车次": "S1610", "到达时间": "09:56", "发车时间": "09:57" },
+    { "车次": "S1636", "到达时间": "10:36", "发车时间": "10:37" },
+    { "车次": "S1612", "到达时间": "11:06", "发车时间": "11:07" },
+    { "车次": "S1614", "到达时间": "12:00", "发车时间": "12:01" },
+    { "车次": "S1616", "到达时间": "13:13", "发车时间": "13:14" },
+    { "车次": "S1618", "到达时间": "14:24", "发车时间": "14:25" },
+    { "车次": "S1638", "到达时间": "14:52", "发车时间": "14:53" },
+    { "车次": "S1620", "到达时间": "15:04", "发车时间": "15:05" },
+    { "车次": "S1622", "到达时间": "15:33", "发车时间": "15:34" },
+    { "车次": "S1624", "到达时间": "16:21", "发车时间": "16:22" },
+    { "车次": "S1626", "到达时间": "17:31", "发车时间": "17:32" },
+    { "车次": "S1204", "到达时间": "17:53", "发车时间": "17:54" },
+    { "车次": "S1628", "到达时间": "18:21", "发车时间": "18:22" },
+    { "车次": "S1630", "到达时间": "19:14", "发车时间": "19:15" },
+    { "车次": "S1208", "到达时间": "20:16", "发车时间": "20:17" },
+    { "车次": "S1206", "到达时间": "20:41", "发车时间": "20:42" },
+    { "车次": "S1634", "到达时间": "21:02", "发车时间": "21:03" },
+    { "车次": "S1210", "到达时间": "21:43", "发车时间": "21:44" }
   ],
   "叶榭": [
-    {
-      "trainNo": "S1001",
-      "direction": "down",
-      "arrival": "5:54",
-      "departure": "5:55"
-    },
-    {
-      "trainNo": "S1021",
-      "direction": "down",
-      "arrival": "6:23",
-      "departure": "6:24"
-    },
-    {
-      "trainNo": "S1101",
-      "direction": "down",
-      "arrival": "6:52",
-      "departure": "6:53"
-    },
-    {
-      "trainNo": "S1003",
-      "direction": "down",
-      "arrival": "7:18",
-      "departure": "7:19"
-    },
-    {
-      "trainNo": "S1005",
-      "direction": "down",
-      "arrival": "7:48",
-      "departure": "7:49"
-    },
-    {
-      "trainNo": "S1601",
-      "direction": "down",
-      "arrival": "8:25",
-      "departure": "8:26"
-    },
-    {
-      "trainNo": "S1009",
-      "direction": "down",
-      "arrival": "8:38",
-      "departure": "8:39"
-    },
-    {
-      "trainNo": "S1209",
-      "direction": "down",
-      "arrival": "9:00",
-      "departure": "9:01"
-    },
-    {
-      "trainNo": "S1203",
-      "direction": "down",
-      "arrival": "9:26",
-      "departure": "9:27"
-    },
-    {
-      "trainNo": "S1605",
-      "direction": "down",
-      "arrival": "10:06",
-      "departure": "10:07"
-    },
-    {
-      "trainNo": "S1607",
-      "direction": "down",
-      "arrival": "10:23",
-      "departure": "10:24"
-    },
-    {
-      "trainNo": "S1151",
-      "direction": "down",
-      "arrival": "10:55",
-      "departure": "10:56"
-    },
-    {
-      "trainNo": "S1609",
-      "direction": "down",
-      "arrival": "11:16",
-      "departure": "11:17"
-    },
-    {
-      "trainNo": "S1611",
-      "direction": "down",
-      "arrival": "12:39",
-      "departure": "12:40"
-    },
-    {
-      "trainNo": "S1153",
-      "direction": "down",
-      "arrival": "12:59",
-      "departure": "13:00"
-    },
-    {
-      "trainNo": "S1613",
-      "direction": "down",
-      "arrival": "13:27",
-      "departure": "13:28"
-    },
-    {
-      "trainNo": "S1643",
-      "direction": "down",
-      "arrival": "14:14",
-      "departure": "14:15"
-    },
-    {
-      "trainNo": "S1615",
-      "direction": "down",
-      "arrival": "14:39",
-      "departure": "14:40"
-    },
-    {
-      "trainNo": "S1155",
-      "direction": "down",
-      "arrival": "15:13",
-      "departure": "15:14"
-    },
-    {
-      "trainNo": "S1617",
-      "direction": "down",
-      "arrival": "15:41",
-      "departure": "15:42"
-    },
-    {
-      "trainNo": "S1637",
-      "direction": "down",
-      "arrival": "16:09",
-      "departure": "16:10"
-    },
-    {
-      "trainNo": "S1619",
-      "direction": "down",
-      "arrival": "16:30",
-      "departure": "16:31"
-    },
-    {
-      "trainNo": "S1621",
-      "direction": "down",
-      "arrival": "16:55",
-      "departure": "16:56"
-    },
-    {
-      "trainNo": "S1157",
-      "direction": "down",
-      "arrival": "17:38",
-      "departure": "17:39"
-    },
-    {
-      "trainNo": "S1623",
-      "direction": "down",
-      "arrival": "17:50",
-      "departure": "17:51"
-    },
-    {
-      "trainNo": "S1141",
-      "direction": "down",
-      "arrival": "18:09",
-      "departure": "18:10"
-    },
-    {
-      "trainNo": "S1011",
-      "direction": "down",
-      "arrival": "18:44",
-      "departure": "18:45"
-    },
-    {
-      "trainNo": "S1625",
-      "direction": "down",
-      "arrival": "18:53",
-      "departure": "18:54"
-    },
-    {
-      "trainNo": "S1143",
-      "direction": "down",
-      "arrival": "19:16",
-      "departure": "19:17"
-    },
-    {
-      "trainNo": "S1013",
-      "direction": "down",
-      "arrival": "19:40",
-      "departure": "19:41"
-    },
-    {
-      "trainNo": "S1627",
-      "direction": "down",
-      "arrival": "19:55",
-      "departure": "19:56"
-    },
-    {
-      "trainNo": "S1205",
-      "direction": "down",
-      "arrival": "20:09",
-      "departure": "20:10"
-    },
-    {
-      "trainNo": "S1629",
-      "direction": "down",
-      "arrival": "20:44",
-      "departure": "20:45"
-    },
-    {
-      "trainNo": "S1207",
-      "direction": "down",
-      "arrival": "21:35",
-      "departure": "21:36"
-    },
-    {
-      "trainNo": "S1633",
-      "direction": "down",
-      "arrival": "22:23",
-      "departure": "22:24"
-    },
-    {
-      "trainNo": "S1211",
-      "direction": "down",
-      "arrival": "22:32",
-      "departure": "22:33"
-    },
-    {
-      "trainNo": "S1212",
-      "direction": "up",
-      "arrival": "6:36",
-      "departure": "6:37"
-    },
-    {
-      "trainNo": "S1004",
-      "direction": "up",
-      "arrival": "7:00",
-      "departure": "7:01"
-    },
-    {
-      "trainNo": "S1142",
-      "direction": "up",
-      "arrival": "7:14",
-      "departure": "7:15"
-    },
-    {
-      "trainNo": "S1022",
-      "direction": "up",
-      "arrival": "8:31",
-      "departure": "8:32"
-    },
-    {
-      "trainNo": "S1606",
-      "direction": "up",
-      "arrival": "8:37",
-      "departure": "8:38"
-    },
-    {
-      "trainNo": "S1608",
-      "direction": "up",
-      "arrival": "9:04",
-      "departure": "9:05"
-    },
-    {
-      "trainNo": "S1104",
-      "direction": "up",
-      "arrival": "9:21",
-      "departure": "9:22"
-    },
-    {
-      "trainNo": "S1636",
-      "direction": "up",
-      "arrival": "9:59",
-      "departure": "10:00"
-    },
-    {
-      "trainNo": "S1621",
-      "direction": "up",
-      "arrival": "11:06",
-      "departure": "11:07"
-    },
-    {
-      "trainNo": "S1641",
-      "direction": "up",
-      "arrival": "11:36",
-      "departure": "11:37"
-    },
-    {
-      "trainNo": "S1624",
-      "direction": "up",
-      "arrival": "11:59",
-      "departure": "12:00"
-    },
-    {
-      "trainNo": "S1616",
-      "direction": "up",
-      "arrival": "13:12",
-      "departure": "13:13"
-    },
-    {
-      "trainNo": "S1108",
-      "direction": "up",
-      "arrival": "13:43",
-      "departure": "13:44"
-    },
-    {
-      "trainNo": "S1638",
-      "direction": "up",
-      "arrival": "14:51",
-      "departure": "14:52"
-    },
-    {
-      "trainNo": "S1626",
-      "direction": "up",
-      "arrival": "15:03",
-      "departure": "15:04"
-    },
-    {
-      "trainNo": "S1110",
-      "direction": "up",
-      "arrival": "15:59",
-      "departure": "16:00"
-    },
-    {
-      "trainNo": "S1006",
-      "direction": "up",
-      "arrival": "16:48",
-      "departure": "16:49"
-    },
-    {
-      "trainNo": "S1627",
-      "direction": "up",
-      "arrival": "17:30",
-      "departure": "17:31"
-    },
-    {
-      "trainNo": "S1628",
-      "direction": "up",
-      "arrival": "18:00",
-      "departure": "18:01"
-    },
-    {
-      "trainNo": "S1008",
-      "direction": "up",
-      "arrival": "18:47",
-      "departure": "18:48"
-    },
-    {
-      "trainNo": "S1010",
-      "direction": "up",
-      "arrival": "19:13",
-      "departure": "19:14"
-    },
-    {
-      "trainNo": "S1630",
-      "direction": "up",
-      "arrival": "19:39",
-      "departure": "19:40"
-    },
-    {
-      "trainNo": "S1012",
-      "direction": "up",
-      "arrival": "20:02",
-      "departure": "20:03"
-    },
-    {
-      "trainNo": "S1208",
-      "direction": "up",
-      "arrival": "20:54",
-      "departure": "20:55"
-    },
-    {
-      "trainNo": "S1634",
-      "direction": "up",
-      "arrival": "21:07",
-      "departure": "21:08"
-    },
-    {
-      "trainNo": "S1210",
-      "direction": "up",
-      "arrival": "22:05",
-      "departure": "22:06"
-    },
-    {
-      "trainNo": "S1014",
-      "direction": "up",
-      "arrival": "22:41",
-      "departure": "22:42"
-    }
+    { "车次": "S1201", "到达时间": "06:25", "发车时间": "06:26" },
+    { "车次": "S1601", "到达时间": "08:18", "发车时间": "08:26" },
+    { "车次": "S1209", "到达时间": "09:00", "发车时间": "09:01" },
+    { "车次": "S1203", "到达时间": "09:25", "发车时间": "09:26" },
+    { "车次": "S1605", "到达时间": "10:03", "发车时间": "10:04" },
+    { "车次": "S1607", "到达时间": "10:21", "发车时间": "10:22" },
+    { "车次": "S1609", "到达时间": "11:12", "发车时间": "11:13" },
+    { "车次": "S1635", "到达时间": "11:56", "发车时间": "11:57" },
+    { "车次": "S1611", "到达时间": "12:36", "发车时间": "12:37" },
+    { "车次": "S1153", "到达时间": "12:54", "发车时间": "12:55" },
+    { "车次": "S1613", "到达时间": "13:24", "发车时间": "13:25" },
+    { "车次": "S1615", "到达时间": "14:36", "发车时间": "14:37" },
+    { "车次": "S1155", "到达时间": "14:58", "发车时间": "14:59" },
+    { "车次": "S1617", "到达时间": "15:38", "发车时间": "15:39" },
+    { "车次": "S1637", "到达时间": "16:07", "发车时间": "16:08" },
+    { "车次": "S1619", "到达时间": "16:21", "发车时间": "16:22" },
+    { "车次": "S1621", "到达时间": "16:52", "发车时间": "16:53" },
+    { "车次": "S1623", "到达时间": "17:47", "发车时间": "17:48" },
+    { "车次": "S1625", "到达时间": "18:53", "发车时间": "18:55" },
+    { "车次": "S1627", "到达时间": "19:54", "发车时间": "19:56" },
+    { "车次": "S1205", "到达时间": "20:13", "发车时间": "20:15" },
+    { "车次": "S1629", "到达时间": "20:41", "发车时间": "20:42" },
+    { "车次": "S1207", "到达时间": "21:35", "发车时间": "21:36" },
+    { "车次": "S1633", "到达时间": "22:20", "发车时间": "22:21" },
+    { "车次": "S1211", "到达时间": "22:33", "发车时间": "22:34" },
+    { "车次": "S1212", "到达时间": "06:23", "发车时间": "06:24" },
+    { "车次": "S1604", "到达时间": "06:45", "发车时间": "06:46" },
+    { "车次": "S1152", "到达时间": "07:45", "发车时间": "07:47" },
+    { "车次": "S1202", "到达时间": "08:10", "发车时间": "08:12" },
+    { "车次": "S1606", "到达时间": "08:35", "发车时间": "08:37" },
+    { "车次": "S1608", "到达时间": "08:53", "发车时间": "08:55" },
+    { "车次": "S1610", "到达时间": "09:48", "发车时间": "09:49" },
+    { "车次": "S1636", "到达时间": "10:28", "发车时间": "10:29" },
+    { "车次": "S1612", "到达时间": "10:58", "发车时间": "10:59" },
+    { "车次": "S1614", "到达时间": "11:52", "发车时间": "11:53" },
+    { "车次": "S1616", "到达时间": "13:05", "发车时间": "13:06" },
+    { "车次": "S1618", "到达时间": "14:16", "发车时间": "14:17" },
+    { "车次": "S1638", "到达时间": "14:44", "发车时间": "14:45" },
+    { "车次": "S1620", "到达时间": "14:56", "发车时间": "14:57" },
+    { "车次": "S1622", "到达时间": "15:25", "发车时间": "15:26" },
+    { "车次": "S1624", "到达时间": "16:13", "发车时间": "16:14" },
+    { "车次": "S1626", "到达时间": "17:23", "发车时间": "17:24" },
+    { "车次": "S1204", "到达时间": "17:45", "发车时间": "17:46" },
+    { "车次": "S1628", "到达时间": "18:13", "发车时间": "18:14" },
+    { "车次": "S1630", "到达时间": "19:06", "发车时间": "19:07" },
+    { "车次": "S1208", "到达时间": "20:08", "发车时间": "20:09" },
+    { "车次": "S1206", "到达时间": "20:33", "发车时间": "20:34" },
+    { "车次": "S1634", "到达时间": "20:54", "发车时间": "20:55" },
+    { "车次": "S1210", "到达时间": "21:35", "发车时间": "21:37" }
+  ],
+  "亭林": [
+    { "车次": "S1201", "到达时间": "06:32", "发车时间": "06:33" },
+    { "车次": "S1101", "到达时间": "06:47", "发车时间": "06:48" },
+    { "车次": "S1601", "到达时间": "08:33", "发车时间": "08:34" },
+    { "车次": "S1209", "到达时间": "09:07", "发车时间": "09:08" },
+    { "车次": "S1203", "到达时间": "09:32", "发车时间": "09:33" },
+    { "车次": "S1605", "到达时间": "10:10", "发车时间": "10:11" },
+    { "车次": "S1607", "到达时间": "10:28", "发车时间": "10:29" },
+    { "车次": "S1151", "到达时间": "10:40", "发车时间": "10:41" },
+    { "车次": "S1609", "到达时间": "11:19", "发车时间": "11:20" },
+    { "车次": "S1635", "到达时间": "12:03", "发车时间": "12:04" },
+    { "车次": "S1611", "到达时间": "12:43", "发车时间": "12:44" },
+    { "车次": "S1613", "到达时间": "13:31", "发车时间": "13:32" },
+    { "车次": "S1643", "到达时间": "14:05", "发车时间": "14:06" },
+    { "车次": "S1615", "到达时间": "14:43", "发车时间": "14:44" },
+    { "车次": "S1155", "到达时间": "15:08", "发车时间": "15:09" },
+    { "车次": "S1617", "到达时间": "15:45", "发车时间": "15:46" },
+    { "车次": "S1637", "到达时间": "16:14", "发车时间": "16:15" },
+    { "车次": "S1619", "到达时间": "16:28", "发车时间": "16:29" },
+    { "车次": "S1621", "到达时间": "16:59", "发车时间": "17:00" },
+    { "车次": "S1157", "到达时间": "17:23", "发车时间": "17:24" },
+    { "车次": "S1623", "到达时间": "17:54", "发车时间": "17:55" },
+    { "车次": "S1625", "到达时间": "19:01", "发车时间": "19:03" },
+    { "车次": "S1627", "到达时间": "20:02", "发车时间": "20:04" },
+    { "车次": "S1205", "到达时间": "20:21", "发车时间": "20:23" },
+    { "车次": "S1629", "到达时间": "20:48", "发车时间": "20:49" },
+    { "车次": "S1207", "到达时间": "21:42", "发车时间": "21:43" },
+    { "车次": "S1633", "到达时间": "22:27", "发车时间": "22:28" },
+    { "车次": "S1211", "到达时间": "22:40", "发车时间": "22:41" },
+    { "车次": "S1212", "到达时间": "06:16", "发车时间": "06:17" },
+    { "车次": "S1604", "到达时间": "06:38", "发车时间": "06:39" },
+    { "车次": "S1142", "到达时间": "07:45", "发车时间": "07:47" },
+    { "车次": "S1202", "到达时间": "08:02", "发车时间": "08:04" },
+    { "车次": "S1606", "到达时间": "08:27", "发车时间": "08:29" },
+    { "车次": "S1608", "到达时间": "08:45", "发车时间": "08:47" },
+    { "车次": "S1104", "到达时间": "09:15", "发车时间": "09:16" },
+    { "车次": "S1610", "到达时间": "09:41", "发车时间": "09:42" },
+    { "车次": "S1636", "到达时间": "10:21", "发车时间": "10:22" },
+    { "车次": "S1612", "到达时间": "10:51", "发车时间": "10:52" },
+    { "车次": "S1106", "到达时间": "11:31", "发车时间": "11:32" },
+    { "车次": "S1614", "到达时间": "11:45", "发车时间": "11:46" },
+    { "车次": "S1644", "到达时间": "12:42", "发车时间": "12:43" },
+    { "车次": "S1616", "到达时间": "12:58", "发车时间": "12:59" },
+    { "车次": "S1108", "到达时间": "13:38", "发车时间": "13:39" },
+    { "车次": "S1618", "到达时间": "14:09", "发车时间": "14:10" },
+    { "车次": "S1638", "到达时间": "14:37", "发车时间": "14:38" },
+    { "车次": "S1620", "到达时间": "14:49", "发车时间": "14:50" },
+    { "车次": "S1622", "到达时间": "15:18", "发车时间": "15:19" },
+    { "车次": "S1110", "到达时间": "15:54", "发车时间": "15:55" },
+    { "车次": "S1624", "到达时间": "16:06", "发车时间": "16:07" },
+    { "车次": "S1626", "到达时间": "17:16", "发车时间": "17:17" },
+    { "车次": "S1204", "到达时间": "17:38", "发车时间": "17:39" },
+    { "车次": "S1628", "到达时间": "18:06", "发车时间": "18:07" },
+    { "车次": "S1630", "到达时间": "18:59", "发车时间": "19:00" },
+    { "车次": "S1208", "到达时间": "20:01", "发车时间": "20:02" },
+    { "车次": "S1206", "到达时间": "20:26", "发车时间": "20:27" },
+    { "车次": "S1634", "到达时间": "20:47", "发车时间": "20:48" },
+    { "车次": "S1160", "到达时间": "21:09", "发车时间": "21:10" },
+    { "车次": "S1210", "到达时间": "21:29", "发车时间": "21:30" }
   ],
   "金山园区": [
-    {
-      "trainNo": "S1003",
-      "direction": "down",
-      "arrival": "7:21",
-      "departure": "7:22"
-    },
-    {
-      "trainNo": "S1203",
-      "direction": "down",
-      "arrival": "9:50",
-      "departure": "9:51"
-    },
-    {
-      "trainNo": "S1637",
-      "direction": "down",
-      "arrival": "16:32",
-      "departure": "16:33"
-    },
-    {
-      "trainNo": "S1623",
-      "direction": "down",
-      "arrival": "18:02",
-      "departure": "18:03"
-    },
-    {
-      "trainNo": "S1143",
-      "direction": "down",
-      "arrival": "19:30",
-      "departure": "19:31"
-    },
-    {
-      "trainNo": "S1205",
-      "direction": "down",
-      "arrival": "21:06",
-      "departure": "21:07"
-    },
-    {
-      "trainNo": "S1633",
-      "direction": "down",
-      "arrival": "22:45",
-      "departure": "22:46"
-    },
-    {
-      "trainNo": "S1022",
-      "direction": "up",
-      "arrival": "8:53",
-      "departure": "8:54"
-    },
-    {
-      "trainNo": "S1636",
-      "direction": "up",
-      "arrival": "10:19",
-      "departure": "10:20"
-    },
-    {
-      "trainNo": "S1638",
-      "direction": "up",
-      "arrival": "15:58",
-      "departure": "15:59"
-    },
-    {
-      "trainNo": "S1624",
-      "direction": "up",
-      "arrival": "15:58",
-      "departure": "15:59"
-    },
-    {
-      "trainNo": "S1628",
-      "direction": "up",
-      "arrival": "18:18",
-      "departure": "18:19"
-    },
-    {
-      "trainNo": "S1208",
-      "direction": "up",
-      "arrival": "21:07",
-      "departure": "21:08"
-    }
+    { "车次": "S1201", "到达时间": "06:39", "发车时间": "06:40" },
+    { "车次": "S1601", "到达时间": "08:40", "发车时间": "08:41" },
+    { "车次": "S1209", "到达时间": "09:14", "发车时间": "09:15" },
+    { "车次": "S1203", "到达时间": "09:39", "发车时间": "09:40" },
+    { "车次": "S1605", "到达时间": "10:17", "发车时间": "10:18" },
+    { "车次": "S1607", "到达时间": "10:35", "发车时间": "10:36" },
+    { "车次": "S1609", "到达时间": "11:26", "发车时间": "11:27" },
+    { "车次": "S1635", "到达时间": "12:10", "发车时间": "12:11" },
+    { "车次": "S1611", "到达时间": "12:50", "发车时间": "12:51" },
+    { "车次": "S1613", "到达时间": "13:38", "发车时间": "13:39" },
+    { "车次": "S1615", "到达时间": "14:50", "发车时间": "14:51" },
+    { "车次": "S1617", "到达时间": "15:52", "发车时间": "15:53" },
+    { "车次": "S1637", "到达时间": "16:21", "发车时间": "16:22" },
+    { "车次": "S1619", "到达时间": "16:35", "发车时间": "16:36" },
+    { "车次": "S1621", "到达时间": "17:06", "发车时间": "17:07" },
+    { "车次": "S1623", "到达时间": "18:01", "发车时间": "18:02" },
+    { "车次": "S1625", "到达时间": "19:09", "发车时间": "19:11" },
+    { "车次": "S1627", "到达时间": "20:10", "发车时间": "20:12" },
+    { "车次": "S1205", "到达时间": "20:29", "发车时间": "20:31" },
+    { "车次": "S1629", "到达时间": "20:55", "发车时间": "20:56" },
+    { "车次": "S1207", "到达时间": "21:49", "发车时间": "21:50" },
+    { "车次": "S1633", "到达时间": "22:34", "发车时间": "22:35" },
+    { "车次": "S1211", "到达时间": "22:47", "发车时间": "22:48" },
+    { "车次": "S1212", "到达时间": "06:09", "发车时间": "06:10" },
+    { "车次": "S1604", "到达时间": "06:31", "发车时间": "06:32" },
+    { "车次": "S1202", "到达时间": "07:54", "发车时间": "07:56" },
+    { "车次": "S1606", "到达时间": "08:19", "发车时间": "08:21" },
+    { "车次": "S1608", "到达时间": "08:37", "发车时间": "08:39" },
+    { "车次": "S1610", "到达时间": "09:34", "发车时间": "09:35" },
+    { "车次": "S1636", "到达时间": "10:14", "发车时间": "10:15" },
+    { "车次": "S1612", "到达时间": "10:44", "发车时间": "10:45" },
+    { "车次": "S1614", "到达时间": "11:38", "发车时间": "11:39" },
+    { "车次": "S1616", "到达时间": "12:51", "发车时间": "12:52" },
+    { "车次": "S1618", "到达时间": "14:02", "发车时间": "14:03" },
+    { "车次": "S1638", "到达时间": "14:30", "发车时间": "14:31" },
+    { "车次": "S1620", "到达时间": "14:42", "发车时间": "14:43" },
+    { "车次": "S1622", "到达时间": "15:11", "发车时间": "15:12" },
+    { "车次": "S1624", "到达时间": "15:59", "发车时间": "16:00" },
+    { "车次": "S1626", "到达时间": "17:09", "发车时间": "17:10" },
+    { "车次": "S1204", "到达时间": "17:31", "发车时间": "17:32" },
+    { "车次": "S1628", "到达时间": "17:59", "发车时间": "18:00" },
+    { "车次": "S1630", "到达时间": "18:52", "发车时间": "18:53" },
+    { "车次": "S1208", "到达时间": "19:54", "发车时间": "19:55" },
+    { "车次": "S1206", "到达时间": "20:19", "发车时间": "20:20" },
+    { "车次": "S1634", "到达时间": "20:40", "发车时间": "20:41" },
+    { "车次": "S1210", "到达时间": "21:29", "发车时间": "21:30" }
   ],
   "金山卫": [
-    {
-      "trainNo": "S1001",
-      "direction": "down",
-      "arrival": "5:54"
-    },
-    {
-      "trainNo": "S1021",
-      "direction": "down",
-      "arrival": "6:24"
-    },
-    {
-      "trainNo": "S1101",
-      "direction": "down",
-      "arrival": "7:01"
-    },
-    {
-      "trainNo": "S1003",
-      "direction": "down",
-      "arrival": "7:21"
-    },
-    {
-      "trainNo": "S1005",
-      "direction": "down",
-      "arrival": "7:49"
-    },
-    {
-      "trainNo": "S1601",
-      "direction": "down",
-      "arrival": "8:34"
-    },
-    {
-      "trainNo": "S1009",
-      "direction": "down",
-      "arrival": "8:39"
-    },
-    {
-      "trainNo": "S1209",
-      "direction": "down",
-      "arrival": "9:25"
-    },
-    {
-      "trainNo": "S1203",
-      "direction": "down",
-      "arrival": "9:50"
-    },
-    {
-      "trainNo": "S1605",
-      "direction": "down",
-      "arrival": "10:50"
-    },
-    {
-      "trainNo": "S1607",
-      "direction": "down",
-      "arrival": "11:04"
-    },
-    {
-      "trainNo": "S1151",
-      "direction": "down",
-      "arrival": "11:04"
-    },
-    {
-      "trainNo": "S1609",
-      "direction": "down",
-      "arrival": "11:37"
-    },
-    {
-      "trainNo": "S1611",
-      "direction": "down",
-      "arrival": "12:43"
-    },
-    {
-      "trainNo": "S1153",
-      "direction": "down",
-      "arrival": "12:54"
-    },
-    {
-      "trainNo": "S1613",
-      "direction": "down",
-      "arrival": "13:49"
-    },
-    {
-      "trainNo": "S1643",
-      "direction": "down",
-      "arrival": "14:19"
-    },
-    {
-      "trainNo": "S1615",
-      "direction": "down",
-      "arrival": "14:51"
-    },
-    {
-      "trainNo": "S1155",
-      "direction": "down",
-      "arrival": "15:22"
-    },
-    {
-      "trainNo": "S1617",
-      "direction": "down",
-      "arrival": "16:03"
-    },
-    {
-      "trainNo": "S1637",
-      "direction": "down",
-      "arrival": "16:36"
-    },
-    {
-      "trainNo": "S1619",
-      "direction": "down",
-      "arrival": "16:58"
-    },
-    {
-      "trainNo": "S1621",
-      "direction": "down",
-      "arrival": "17:17"
-    },
-    {
-      "trainNo": "S1157",
-      "direction": "down",
-      "arrival": "17:47"
-    },
-    {
-      "trainNo": "S1623",
-      "direction": "down",
-      "arrival": "18:22"
-    },
-    {
-      "trainNo": "S1141",
-      "direction": "down",
-      "arrival": "18:22"
-    },
-    {
-      "trainNo": "S1011",
-      "direction": "down",
-      "arrival": "18:45"
-    },
-    {
-      "trainNo": "S1625",
-      "direction": "down",
-      "arrival": "19:21"
-    },
-    {
-      "trainNo": "S1143",
-      "direction": "down",
-      "arrival": "19:30"
-    },
-    {
-      "trainNo": "S1013",
-      "direction": "down",
-      "arrival": "19:40"
-    },
-    {
-      "trainNo": "S1627",
-      "direction": "down",
-      "arrival": "20:02"
-    },
-    {
-      "trainNo": "S1205",
-      "direction": "down",
-      "arrival": "21:14"
-    },
-    {
-      "trainNo": "S1629",
-      "direction": "down",
-      "arrival": "21:34"
-    },
-    {
-      "trainNo": "S1207",
-      "direction": "down",
-      "arrival": "21:40"
-    },
-    {
-      "trainNo": "S1633",
-      "direction": "down",
-      "arrival": "22:45"
-    },
-    {
-      "trainNo": "S1211",
-      "direction": "down",
-      "arrival": "22:58"
-    },
-    {
-      "trainNo": "S1212",
-      "direction": "up",
-      "departure": "6:02"
-    },
-    {
-      "trainNo": "S1004",
-      "direction": "up",
-      "departure": "6:40"
-    },
-    {
-      "trainNo": "S1142",
-      "direction": "up",
-      "departure": "6:54"
-    },
-    {
-      "trainNo": "S1022",
-      "direction": "up",
-      "departure": "7:54"
-    },
-    {
-      "trainNo": "S1606",
-      "direction": "up",
-      "departure": "8:19"
-    },
-    {
-      "trainNo": "S1608",
-      "direction": "up",
-      "departure": "8:37"
-    },
-    {
-      "trainNo": "S1104",
-      "direction": "up",
-      "departure": "9:03"
-    },
-    {
-      "trainNo": "S1636",
-      "direction": "up",
-      "departure": "10:03"
-    },
-    {
-      "trainNo": "S1621",
-      "direction": "up",
-      "departure": "10:46"
-    },
-    {
-      "trainNo": "S1641",
-      "direction": "up",
-      "departure": "11:16"
-    },
-    {
-      "trainNo": "S1624",
-      "direction": "up",
-      "departure": "12:30"
-    },
-    {
-      "trainNo": "S1616",
-      "direction": "up",
-      "departure": "13:26"
-    },
-    {
-      "trainNo": "S1108",
-      "direction": "up",
-      "departure": "13:53"
-    },
-    {
-      "trainNo": "S1638",
-      "direction": "up",
-      "departure": "15:17"
-    },
-    {
-      "trainNo": "S1626",
-      "direction": "up",
-      "departure": "15:58"
-    },
-    {
-      "trainNo": "S1110",
-      "direction": "up",
-      "departure": "16:25"
-    },
-    {
-      "trainNo": "S1006",
-      "direction": "up",
-      "departure": "16:40"
-    },
-    {
-      "trainNo": "S1627",
-      "direction": "up",
-      "departure": "17:32"
-    },
-    {
-      "trainNo": "S1628",
-      "direction": "up",
-      "departure": "17:50"
-    },
-    {
-      "trainNo": "S1008",
-      "direction": "up",
-      "departure": "18:13"
-    },
-    {
-      "trainNo": "S1010",
-      "direction": "up",
-      "departure": "18:38"
-    },
-    {
-      "trainNo": "S1630",
-      "direction": "up",
-      "departure": "18:53"
-    },
-    {
-      "trainNo": "S1012",
-      "direction": "up",
-      "departure": "19:08"
-    },
-    {
-      "trainNo": "S1208",
-      "direction": "up",
-      "departure": "20:08"
-    },
-    {
-      "trainNo": "S1634",
-      "direction": "up",
-      "departure": "20:31"
-    },
-    {
-      "trainNo": "S1210",
-      "direction": "up",
-      "departure": "21:21"
-    },
-    {
-      "trainNo": "S1014",
-      "direction": "up",
-      "departure": "22:27"
-    }
+    { "车次": "S1001", "到达时间": "05:54", "发车时间": null },
+    { "车次": "S1201", "到达时间": "06:50", "发车时间": null },
+    { "车次": "S1101", "到达时间": "07:01", "发车时间": null },
+    { "车次": "S1003", "到达时间": "07:21", "发车时间": null },
+    { "车次": "S1005", "到达时间": "07:49", "发车时间": null },
+    { "车次": "S1007", "到达时间": "08:14", "发车时间": null },
+    { "车次": "S1601", "到达时间": "08:58", "发车时间": null },
+    { "车次": "S1009", "到达时间": "08:39", "发车时间": null },
+    { "车次": "S1209", "到达时间": "09:25", "发车时间": null },
+    { "车次": "S1203", "到达时间": "09:50", "发车时间": null },
+    { "车次": "S1605", "到达时间": "10:28", "发车时间": null },
+    { "车次": "S1607", "到达时间": "10:46", "发车时间": null },
+    { "车次": "S1151", "到达时间": "11:04", "发车时间": null },
+    { "车次": "S1609", "到达时间": "11:37", "发车时间": null },
+    { "车次": "S1635", "到达时间": "12:21", "发车时间": null },
+    { "车次": "S1611", "到达时间": "13:01", "发车时间": null },
+    { "车次": "S1153", "到达时间": "13:08", "发车时间": null },
+    { "车次": "S1613", "到达时间": "13:49", "发车时间": null },
+    { "车次": "S1643", "到达时间": "14:19", "发车时间": null },
+    { "车次": "S1615", "到达时间": "15:01", "发车时间": null },
+    { "车次": "S1155", "到达时间": "15:22", "发车时间": null },
+    { "车次": "S1617", "到达时间": "16:03", "发车时间": null },
+    { "车次": "S1637", "到达时间": "16:32", "发车时间": null },
+    { "车次": "S1619", "到达时间": "16:46", "发车时间": null },
+    { "车次": "S1621", "到达时间": "17:17", "发车时间": null },
+    { "车次": "S1157", "到达时间": "17:47", "发车时间": null },
+    { "车次": "S1623", "到达时间": "18:12", "发车时间": null },
+    { "车次": "S1141", "到达时间": "18:22", "发车时间": null },
+    { "车次": "S1011", "到达时间": "18:45", "发车时间": null },
+    { "车次": "S1625", "到达时间": "19:21", "发车时间": null },
+    { "车次": "S1143", "到达时间": "19:30", "发车时间": null },
+    { "车次": "S1013", "到达时间": "19:40", "发车时间": null },
+    { "车次": "S1627", "到达时间": "20:22", "发车时间": null },
+    { "车次": "S1205", "到达时间": "20:41", "发车时间": null },
+    { "车次": "S1629", "到达时间": "21:06", "发车时间": null },
+    { "车次": "S1207", "到达时间": "22:00", "发车时间": null },
+    { "车次": "S1633", "到达时间": "22:45", "发车时间": null },
+    { "车次": "S1211", "到达时间": "22:58", "发车时间": null },
+    { "车次": "S1212", "到达时间": null, "发车时间": "06:00" },
+    { "车次": "S1604", "到达时间": null, "发车时间": "06:22" },
+    { "车次": "S1002", "到达时间": null, "发车时间": "06:52" },
+    { "车次": "S1004", "到达时间": null, "发车时间": "07:14" },
+    { "车次": "S1142", "到达时间": null, "发车时间": "07:20" },
+    { "车次": "S1152", "到达时间": null, "发车时间": "07:33" },
+    { "车次": "S1202", "到达时间": null, "发车时间": "07:45" },
+    { "车次": "S1606", "到达时间": null, "发车时间": "08:10" },
+    { "车次": "S1608", "到达时间": null, "发车时间": "08:28" },
+    { "车次": "S1104", "到达时间": null, "发车时间": "09:03" },
+    { "车次": "S1610", "到达时间": null, "发车时间": "09:25" },
+    { "车次": "S1636", "到达时间": null, "发车时间": "10:05" },
+    { "车次": "S1612", "到达时间": null, "发车时间": "10:35" },
+    { "车次": "S1106", "到达时间": null, "发车时间": "11:19" },
+    { "车次": "S1614", "到达时间": null, "发车时间": "11:29" },
+    { "车次": "S1644", "到达时间": null, "发车时间": "12:30" },
+    { "车次": "S1616", "到达时间": null, "发车时间": "12:42" },
+    { "车次": "S1108", "到达时间": null, "发车时间": "13:26" },
+    { "车次": "S1618", "到达时间": null, "发车时间": "13:53" },
+    { "车次": "S1638", "到达时间": null, "发车时间": "14:21" },
+    { "车次": "S1620", "到达时间": null, "发车时间": "14:33" },
+    { "车次": "S1622", "到达时间": null, "发车时间": "15:02" },
+    { "车次": "S1110", "到达时间": null, "发车时间": "15:42" },
+    { "车次": "S1624", "到达时间": null, "发车时间": "15:50" },
+    { "车次": "S1006", "到达时间": null, "发车时间": "16:40" },
+    { "车次": "S1626", "到达时间": null, "发车时间": "17:00" },
+    { "车次": "S1204", "到达时间": null, "发车时间": "17:22" },
+    { "车次": "S1628", "到达时间": null, "发车时间": "17:50" },
+    { "车次": "S1008", "到达时间": null, "发车时间": "18:13" },
+    { "车次": "S1010", "到达时间": null, "发车时间": "18:38" },
+    { "车次": "S1630", "到达时间": null, "发车时间": "18:43" },
+    { "车次": "S1012", "到达时间": null, "发车时间": "19:28" },
+    { "车次": "S1208", "到达时间": null, "发车时间": "19:45" },
+    { "车次": "S1206", "到达时间": null, "发车时间": "20:10" },
+    { "车次": "S1634", "到达时间": null, "发车时间": "20:31" },
+    { "车次": "S1160", "到达时间": null, "发车时间": "20:57" },
+    { "车次": "S1210", "到达时间": null, "发车时间": "21:20" },
+    { "车次": "S1014", "到达时间": null, "发车时间": "22:27" }
   ]
-  }
 }

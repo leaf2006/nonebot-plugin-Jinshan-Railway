@@ -3,8 +3,9 @@
 from nonebot.adapters.onebot.v11 import Message, MessageSegment   # type: ignore
 from nonebot.plugin import PluginMetadata  # type: ignore
 from .config import Config
-from .help import helper
-from .train_number_info import train_number_info_function
+from .help import handle_helper
+from .train_number_info import handle_train_number_info
+from .station_screen import handle_station_screen
 # import nonebot_plugin_jinshan_railway.train_number_info
 # import nonebot_plugin_jinshan_railway.help
 # __plugin_meta__ = PluginMetadata(
