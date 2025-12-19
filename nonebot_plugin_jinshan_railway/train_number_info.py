@@ -8,7 +8,7 @@ from nonebot.params import CommandArg  # type: ignore
 from nonebot.rule import to_me  # type: ignore
 from .data_loader import railway_data as rd # 导入数据
 
-train_number_info = on_command("车次" , aliases={"cc"} , priority=6 , block=True)
+train_number_info = on_command("小火车" , aliases={"xhc"} , priority=6 , block=True)
 
 @train_number_info.handle() # 查询车次信息
 async def handle_train_number_info(args:  Message = CommandArg()):
@@ -30,9 +30,11 @@ async def handle_train_number_info(args:  Message = CommandArg()):
         
         train_number_info_result = Message([
             "🚝" , train_number_input , "次列车：\n",
-            "类型：" , train_type , "\n \n",
-            stops_result,"\n \n",
-            "数据更新时间：",rd.parsed_station_data['schedule_effective_date']
+            "类型：" , train_type , "\n",
+            "------------------------------ \n",
+            stops_result,"\n",
+            "------------------------------ \n",
+            "数据更新时间：",rd.parsed_train_data['schedule_effective_date']
         ]) # type:ignore
         
         await train_number_info.finish(train_number_info_result)
